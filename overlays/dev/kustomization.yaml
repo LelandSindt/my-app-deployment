@@ -3,7 +3,3 @@ kind: Kustomization
 resources:
 - ../../base
 namePrefix: leland
-commonLabels:
-  someName: someValue
-  owner: alice
-  app: bingo
